@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "884406611703",
+    "firebase_url": "https://testprojekt-86a4b.firebaseio.com",
+    "project_id": "testprojekt-86a4b",
+    "storage_bucket": "testprojekt-86a4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884406611703:android:5f01bb3090975f1d",
+        "android_client_info": {
+          "package_name": "com.example.candemirok.testapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884406611703-j4jgtoneiefqepnobb04dvnmj4ufqq6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw73HbjVeGVOd_QROSzYrO39T_6AOHgrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
